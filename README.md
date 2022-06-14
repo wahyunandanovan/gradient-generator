@@ -1,4 +1,4 @@
 ﻿# Gradient-generator
 
 
-aplikasi sederhana berupa HTML,CSS,JAVASCRIPT untuk generate kode css gradient.
+aplikasi sederhana berupa HTML,CSS,JAVASCRIPT yang berfungsi untuk generate kode css gradient.
